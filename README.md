@@ -158,18 +158,17 @@ Worked with cloud infrastructure and DevOps systems supporting GTN Invest produc
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HarshaYohan&show_icons=true&hide_border=true&theme=github_dark" />
+<img src="https://streak-stats.demolab.com?user=HarshaYohan&theme=github-dark-blue&hide_border=true" />
 
-<br/>
+<br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaYohan&layout=compact&hide_border=true&theme=github_dark" />
+<img src="https://komarev.com/ghpvc/?username=HarshaYohan&style=for-the-badge&label=Profile+Views" />
 
 </div>
-
 ---
 
 ## 🔥 GitHub Streak
