@@ -158,19 +158,6 @@ Worked with cloud infrastructure and DevOps systems supporting GTN Invest produc
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=HarshaYohan&theme=github-dark-blue&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=HarshaYohan&style=for-the-badge&label=Profile+Views" />
-
-</div>
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
@@ -184,11 +171,9 @@ Worked with cloud infrastructure and DevOps systems supporting GTN Invest produc
 ## 🏆 Highlights
 
 - 🎓 Undergraduate — **Department of Computer Science & Engineering, University of Moratuwa**
-- 🏅 **Dean's List** recognition
 - ☁️ Completed industrial training in **DevOps Engineering at GTN Tech**
 - 🏗️ Hands-on experience with production-oriented **AWS infrastructure**
 - ⚙️ Experience across both **Software Engineering and DevOps**
-- 🤝 Served as a **Company Coordinator** for university activities
 
 ---
 
