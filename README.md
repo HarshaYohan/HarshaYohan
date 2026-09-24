@@ -30,7 +30,7 @@ I'm a **Computer Science & Engineering undergraduate at the University of Moratu
 
 My interests sit at the intersection of **Software Engineering, DevOps, Cloud Infrastructure, Backend Engineering, and Distributed Systems**.
 
-- 🎓 B.Sc. (Hons) in Engineering — **Computer Science & Engineering, University of Moratuwa**
+- 🎓 B.Sc. (Hons) in Engineering - **Computer Science & Engineering, University of Moratuwa**
 - ☁️ Hands-on experience with **AWS cloud infrastructure and DevOps engineering**
 - 🏗️ Interested in **Infrastructure as Code, CI/CD, containerization, observability, and automation**
 - 💻 Experienced in developing **full-stack and microservice-based applications**
@@ -48,7 +48,7 @@ During the internship, I gained hands-on experience with:
 
 - 🏗️ **Infrastructure as Code** using Terraform
 - 🔄 **CI/CD automation** using GitLab CI/CD
-- ☁️ **AWS** — ECS, EC2, Lambda, S3, API Gateway, IAM, CloudFront, EventBridge, CloudWatch, Secrets Manager and SSM Parameter Store
+- ☁️ **AWS** - ECS, EC2, Lambda, S3, API Gateway, IAM, CloudFront, EventBridge, CloudWatch, Secrets Manager and SSM Parameter Store
 - 🐳 Containerized workloads using **Docker and Amazon ECS**
 - 📊 Centralized observability using **OpenTelemetry, Fluent Bit, Loki and Grafana**
 - 🔐 Cloud security, access control and compliance
@@ -163,6 +163,8 @@ Worked with cloud infrastructure and DevOps systems supporting GTN Invest produc
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=HarshaYohan&show_icons=true&hide_border=true&theme=github_dark" />
+
+<br/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaYohan&layout=compact&hide_border=true&theme=github_dark" />
 
